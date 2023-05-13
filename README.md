@@ -34,3 +34,8 @@ Feel free to modify and use it according to your needs.
 
 Please note that while this password generator aims to provide secure passwords, it is always recommended to follow best practices and stay up to date with the latest security guidelines.
 
+
+## Acknowledgements
+
+ - [Cloned the starter code from the Github User- @Xandromus](https://github.com/coding-boot-camp/friendly-parakeet/tree/main)
+
