@@ -40,7 +40,7 @@ Please note that while this password generator aims to provide secure passwords,
  - [Cloned the starter code from the Github User- @Xandromus](https://github.com/coding-boot-camp/friendly-parakeet/tree/main)
 
 ## Live Access to web app
-- [@Password Generator App](https://vikramadityad.github.io/Password_Generator/)
+- [Click her to generate secure password](https://vikramadityad.github.io/Password_Generator/)
 
 ## WebApp Screenshots
 <img width="857" alt="Screenshot 2023-05-19 at 10 12 45 AM" src="https://github.com/vikramadityad/Password_Generator/assets/28673859/0912ce9e-321d-439e-aadc-df89ee047e8f">
